@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+    <font android:font="@font/rowdies_bold"/>
+    <font android:font="@font/roboto_black_italic"/>
+    <font android:font="@font/roboto_light"/>
+</font-family>

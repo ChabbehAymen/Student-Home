@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">Student Home</string>
+    <string name="app_name">S.Home</string>
+    <!-- start of preview part-->
+    <string name="looking_froHome_prev">Looking for homes for rent and Roommates,and you can’t  find anywhere.</string>
+    <string name="You_Are_University_Student_prev">You Are University Student</string>
+    <string name="Or_Your_Are_Broker_prev">Or Your Are Broker </string>
+    <string name="you_have_house_prev">You have houses to rent for student or even family </string>
+    <string name="any_where_in_morocco_prev">Any Where in Morocco</string>
+    <string name="this_app_prev">This App </string>
+    <string name="will_help_you_prev">will help you and saves your time so that you can focus on your studies </string>
+    <string name="get_start_now_prev">Get Start Now</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+
+    <!-- end of preview part-->
 </resources>

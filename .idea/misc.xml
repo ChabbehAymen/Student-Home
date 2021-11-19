@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.2015625" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.16927083333333334" />
+        <entry key="app/src/main/res/drawable/bottom_home_nav.xml" value="0.17135416666666667" />
+        <entry key="app/src/main/res/drawable/home_bottom_nav_item_selected.xml" value="0.12314814814814815" />
+        <entry key="app/src/main/res/drawable/toolbar_background.xml" value="0.12314814814814815" />
+        <entry key="app/src/main/res/font-v26/font.xml" value="0.19282051282051282" />
+        <entry key="app/src/main/res/font/font.xml" value="0.19282051282051282" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="app/src/main/res/layout/activity_previu.xml" value="0.14" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/preview1.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.5" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

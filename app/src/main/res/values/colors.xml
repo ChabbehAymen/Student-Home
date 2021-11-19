@@ -7,4 +7,7 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    //my addition of colors
+    <color name="blur_gray">#EBEBEB</color>
+    <color name="light_gold">#FFCE5B</color>
 </resources>
